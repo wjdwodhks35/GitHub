@@ -180,6 +180,20 @@ namespace CSharpStudy
             //_lang[0] = "아무거나";
 
             // System.Console.WriteLine($"0번 값은 {_lang[0]}입니다.");
+
+            //int n = 0;
+            //string str;
+            //string[] Food = new string[4] {"떡볶이","김밥","라면","라뽁이"};
+            //System.Console.Write("1.떡볶이 2.김밥 3.라면 4.라뽁이가 있다. 먹고 싶은 음식의 번호 :");
+            //str = System.Console.ReadLine();
+            //n = Convert.ToInt32(str);
+            //if(n>0&&n<5)
+            //{
+            //    n -= 1;
+            //    Food[n] = "비어 있다.";
+            //    System.Console.WriteLine("비어 있게 되었습니다.");
+            //    System.Console.WriteLine("1.{0} 2.{1} 3.{2} 4.{3}",Food[0], Food[1], Food[2], Food[3]);
+            //}
         }
 	}
 }
