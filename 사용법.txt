@@ -1,5 +1,4 @@
 GitHub Desktop으로 공유 하는 법
-
 ->로그인 
 ->파일을 생성 후 Show in Explorer를 눌러 들어간다.
 ->생성한 파일안에 내가 생성한 프로젝트를 넣는다.
@@ -8,7 +7,14 @@ GitHub Desktop으로 공유 하는 법
 ->위쪽으로 올라와 Push origin을 누르고 GitHub를 확인한다.
 
 GitHub Desktop으로 공유된 파일을 쓰는 법
-
 ->로그인
 ->다른 사람이 공유한 파일을 복사한다.
 ->내가 사용하고자 하는 프로그램의 파일을 들어가 붙여넣기 한다.
+
+GitHub Desktop으로 수정된 파일 올리는 법
+->다시 들어가
+->다시 켜
+->Show in Explorer에 파일 수정할거 수정해
+->다시 GitHub에서 commit to main누르고 push origin눌러
+
+끝
