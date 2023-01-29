@@ -5,11 +5,13 @@ GitHub Desktop으로 공유 하는 법
 ->생성한 파일안에 내가 생성한 프로젝트를 넣는다.
 ->그 후 다시 GitHub Desktop으로 돌아와 좌측 하단에 정보를 적는다.
 ->그리고 아래에 Commit to main을 누른다.
-->위쪽으로 올라와 Push origin을 누르면 GitHub에 올라와진다.
+->위쪽으로 올라와 Push origin을 누르고 GitHub를 확인한다.
 
 GitHub Desktop으로 공유된 파일을 쓰는 법
 
 ->로그인
 ->새로 파일을 만들고 Show in Explorer을 누른다.
 ->생성된 파일안을 들어와 다른 사람이 공유한 것을 복사해 이곳에 붙여넣기를 해준다.
-->
+->그 후 다시 GitHub Desktop으로 돌아와 좌측 하단에 정보를 적는다.
+->그리고 아래에 Commit to main을 누른다.
+->위쪽으로 올라와 Push origin을 누르면 에 올라와진다.
