@@ -20,4 +20,3 @@ GitHub Desktop으로 수정된 파일 올리는 법
 ->Show in Explorer에 파일 수정할거 수정해
 ->다시 GitHub에서 commit to main누르고 push origin눌러
 
-끝
